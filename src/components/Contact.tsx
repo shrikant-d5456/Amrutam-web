@@ -1,4 +1,3 @@
-import React from 'react';
 import {BsGoogle,BsFacebook,BsTwitterX,BsInstagram,BsYoutube} from 'react-icons/bs';
 
 function Contact() {

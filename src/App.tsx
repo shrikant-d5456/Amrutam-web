@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react';
+import { useEffect, useState } from 'react';
 import Approach from './components/Approach';
 import Consultant from './components/Consultant';
 import DiscoverAayurveda from './components/DiscoverAayurveda';

@@ -2,7 +2,7 @@ import {BsGoogle,BsFacebook,BsTwitterX,BsInstagram,BsYoutube} from 'react-icons/
 
 function Contact() {
     return (
-        <div id='contact' className='w-screen text-sm border-t-2  bg-white'>
+        <div id='contact' className='w-full text-sm border-t-2  bg-white'>
             <footer className="lg:flex w-screen ">
 
                 <div className="lg:w-2/5 p-4 m-auto ">

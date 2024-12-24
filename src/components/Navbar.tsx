@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import { useState } from 'react'
 import { BsFillHouseFill, BsFillPersonFill, BsThreeDotsVertical, BsX } from 'react-icons/bs'
 
 const Navbar = () => {

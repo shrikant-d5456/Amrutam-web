@@ -1,4 +1,4 @@
-import { BsStar, BsStarFill } from "react-icons/bs"
+import { BsStarFill } from "react-icons/bs"
 
 const Stories = () => {
 
@@ -67,7 +67,7 @@ const Stories = () => {
                                     
                                 </div>
                                 <div>
-                                    <p className="flex  gap-1 my-1">{[...Array(item.star)].map((item)=>(
+                                    <p className="flex  gap-1 my-1">{[...Array(item.star)].map((_)=>(
                                         <p className=" text-yellow-400 "> <BsStarFill/></p>
                                     ))}</p>
                                     <p className=' my-2 font-bold'>{item.heading}</p>
